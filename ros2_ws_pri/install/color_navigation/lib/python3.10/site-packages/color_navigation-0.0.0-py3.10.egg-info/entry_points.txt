@@ -1,3 +1,0 @@
-[console_scripts]
-color_follower = color_navigation.color_follower:main
-
