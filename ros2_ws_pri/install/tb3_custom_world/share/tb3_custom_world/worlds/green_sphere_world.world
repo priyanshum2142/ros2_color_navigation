@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <world name="green_sphere_world">
+
+    <!-- SUN -->
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <!-- GROUND -->
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+
+    <!-- GREEN SPHERE -->
+    <model name="green_sphere">
+      <static>true</static>
+
+      <pose>2 0 0.5 0 0 0</pose>
+
+      <link name="link">
+
+        <collision name="collision">
+          <geometry>
+            <sphere>
+              <radius>0.5</radius>
+            </sphere>
+          </geometry>
+        </collision>
+
+        <visual name="visual">
+          <geometry>
+            <sphere>
+              <radius>0.5</radius>
+            </sphere>
+          </geometry>
+
+          <material>
+            <ambient>0 1 0 1</ambient>
+            <diffuse>0 1 0 1</diffuse>
+            <specular>0 1 0 1</specular>
+          </material>
+
+        </visual>
+
+      </link>
+
+    </model>
+
+  </world>
+</sdf>

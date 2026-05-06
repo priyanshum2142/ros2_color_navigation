@@ -1,0 +1,31 @@
+{
+    "ROS2.distro": "humble",
+    "python.autoComplete.extraPaths": [
+        "/home/priyanshu/ros2_ws_priyanshu/install/turtle_service_control/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/turtle_pen_controller/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/turtle_interfaces/local/lib/python3.10/dist-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/turtle_circle/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/nav2_sms_behavior/local/lib/python3.10/dist-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/my_package/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/fibonacci_action_server/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/clear_client_pkg/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/action_tutorials_py/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/action_tutorials_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/priyanshu/ros2_ws_priyanshu/install/turtle_service_control/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/turtle_pen_controller/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/turtle_interfaces/local/lib/python3.10/dist-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/turtle_circle/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/nav2_sms_behavior/local/lib/python3.10/dist-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/my_package/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/fibonacci_action_server/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/clear_client_pkg/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/action_tutorials_py/lib/python3.10/site-packages",
+        "/home/priyanshu/ros2_ws_priyanshu/install/action_tutorials_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

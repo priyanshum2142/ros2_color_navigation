@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/tb3_custom_world/tb3_custom_world.egg-info
+writing ../../build/tb3_custom_world/tb3_custom_world.egg-info/PKG-INFO
+writing dependency_links to ../../build/tb3_custom_world/tb3_custom_world.egg-info/dependency_links.txt
+writing entry points to ../../build/tb3_custom_world/tb3_custom_world.egg-info/entry_points.txt
+writing requirements to ../../build/tb3_custom_world/tb3_custom_world.egg-info/requires.txt
+writing top-level names to ../../build/tb3_custom_world/tb3_custom_world.egg-info/top_level.txt
+writing manifest file '../../build/tb3_custom_world/tb3_custom_world.egg-info/SOURCES.txt'
+reading manifest file '../../build/tb3_custom_world/tb3_custom_world.egg-info/SOURCES.txt'
+writing manifest file '../../build/tb3_custom_world/tb3_custom_world.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/priyanshu/ros2_ws_pri/build/tb3_custom_world/build
+creating /home/priyanshu/ros2_ws_pri/build/tb3_custom_world/build/lib
+creating /home/priyanshu/ros2_ws_pri/build/tb3_custom_world/build/lib/tb3_custom_world
+copying tb3_custom_world/__init__.py -> /home/priyanshu/ros2_ws_pri/build/tb3_custom_world/build/lib/tb3_custom_world
+running install
+running install_lib
+creating /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/lib/python3.10/site-packages/tb3_custom_world
+copying /home/priyanshu/ros2_ws_pri/build/tb3_custom_world/build/lib/tb3_custom_world/__init__.py -> /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/lib/python3.10/site-packages/tb3_custom_world
+byte-compiling /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/lib/python3.10/site-packages/tb3_custom_world/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/share/ament_index
+creating /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/share/ament_index/resource_index
+creating /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/share/ament_index/resource_index/packages
+copying resource/tb3_custom_world -> /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/share/ament_index/resource_index/packages
+copying package.xml -> /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/share/tb3_custom_world
+creating /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/share/tb3_custom_world/launch
+copying launch/green_sphere_world.launch.py -> /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/share/tb3_custom_world/launch
+creating /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/share/tb3_custom_world/worlds
+copying worlds/green_sphere_world.world -> /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/share/tb3_custom_world/worlds
+running install_egg_info
+Copying ../../build/tb3_custom_world/tb3_custom_world.egg-info to /home/priyanshu/ros2_ws_pri/install/tb3_custom_world/lib/python3.10/site-packages/tb3_custom_world-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/priyanshu/ros2_ws_pri/build/tb3_custom_world/install.log'
