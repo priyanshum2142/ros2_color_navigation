@@ -19,6 +19,16 @@ The implementation includes:
 
 ---
 
+# Demo Video
+
+## Watch the Project Demonstration
+
+Click the link below to view the complete screen recording of the project execution:
+
+[▶ Watch Demo Video on Google Drive](https://drive.google.com/file/d/1BpuBhFVfFWjwhDi-OHeJ47d2byQAdvx3/view?usp=drive_link)
+
+---
+
 # Problem Statement
 
 Implement Color based Navigation with ROS2 and OpenCV:
@@ -289,17 +299,6 @@ The TurtleBot3 successfully:
 - followed target autonomously
 - stopped near object using LiDAR data
 
----
-
-# Demo Video
-
-## Google Drive Link
-
-Add your screen recording link below:
-
-```
-https://drive.google.com/file/d/1BpuBhFVfFWjwhDi-OHeJ47d2byQAdvx3/view?usp=sharing
-```
 
 ---
 
