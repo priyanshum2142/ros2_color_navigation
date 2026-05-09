@@ -29,6 +29,14 @@ Click the link below to view the complete screen recording of the project execut
 
 ---
 
+# Implementation Screenshots
+
+A detailed PDF containing all project screenshots can be viewed here:
+
+[📄 View Implementation Screenshots (PDF)](implementation_screenshots.pdf)
+
+---
+
 # Problem Statement
 
 Implement Color based Navigation with ROS2 and OpenCV:
